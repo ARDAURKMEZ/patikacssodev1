@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(86, 77, 77);
+}
+body h1 {
+    color: white;
+}
+
+body a {
+    color: white;
+}
+
+ol {
+   color: white; 
+}
+
+.fs-large {
+    font-size:35px;
+}
